@@ -1,4 +1,4 @@
-# flexible-signal-denoising
+# flexible signal denoising via empirical bayesian shrinkage
 
 ### required package: ashr, wavethresh, smashr
 ```
