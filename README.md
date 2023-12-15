@@ -1,6 +1,6 @@
 # flexible-signal-denoising
 
-# required package: ashr, wavethresh, smashr
+### required package: ashr, wavethresh, smashr
 ```
 install.packages("devtools")
 install.packages("wavethresh")
